@@ -1,6 +1,6 @@
 # Site settings
-title: 小夜时雨
-SEOTitle: 小夜时雨
+title: 小夜時雨
+SEOTitle: 小夜時雨
 header-img: img/background/mashio.jpg
 email: liujiazzheng@gmail.com
 description: "相对感性批判"
@@ -53,7 +53,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 2e334124a3a8dbd00458                            #生成的clientID
   clientSecret: d72759810da2586e1fb9f0e3a68c01ddccf6326f    #生成的clientSecret
-  repo: https://liujiazheng.github.io    #仓库名称
+  repo: LiuJiazheng.github.io    #仓库名称
   owner: LiuJiazheng    #github用户名
   admin: LiuJiazheng
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
