@@ -3,7 +3,7 @@ title: 小夜时雨
 SEOTitle: 小夜时雨
 header-img: img/background/mashio.jpg
 email: liujiazzheng@gmail.com
-description: "相对感性批判 "
+description: "相对感性批判"
 keyword: "Traveling, Blog, China Society"
 url: "http://liujiazheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -47,12 +47,6 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
-
-
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
